@@ -1,0 +1,3 @@
+PyQt6
+psutil
+send2trash
