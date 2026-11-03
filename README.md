@@ -1,13 +1,8 @@
 # DiskCleaner
 
-<p align="left">
-  <a href="#-english">🇺🇸 English</a> • 
-  <a href="#-русский">🇷🇺 Русский</a>
-</p>
-
 ---
 
-## 🇺🇸 English
+## <img src="https://cloudflare.com" width="24" height="24" valign="middle"/> English
 
 DiskCleaner is a program for efficiently cleaning the C: drive, allowing you to free up disk space without affecting important files. 
 
@@ -15,7 +10,7 @@ The application includes settings that let you choose what to delete and what to
 
 ---
 
-## 🇷🇺 Русский
+## <img src="https://cloudflare.com" width="24" height="24" valign="middle"/> Русский
 
 DiskCleaner — это программа для эффективной очистки диска C, позволяющая освободить место, не трогая важные файлы.
 
@@ -25,4 +20,4 @@ DiskCleaner — это программа для эффективной очис
 
 ---
 
-<img width="1104" height="752" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f09c73c8-8174-43d4-a9f4-49ede06eb13a" />
+<img width="1104" height="752" alt="Screenshot_1" src="https://github.com" />
